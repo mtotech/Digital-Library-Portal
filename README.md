@@ -59,3 +59,27 @@ Monitoring + Logs
 
 ![](screenshots/api_gateway.png)
 
+![](screenshots/cloudDistribution.png)
+
+![](screenshots/cloudwatch_logs.png)
+
+![](screenshots/dynamoDB.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
+![](screenshots/api_gateway.png)
+
