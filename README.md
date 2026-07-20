@@ -6,6 +6,9 @@ This portal will provide:
 •	Publication Catalogue 
 •	Research Repository 
 •	Training Material Request 
+
+<img width="940" height="402" alt="image" src="https://github.com/user-attachments/assets/789919a1-3bec-48e4-b939-89ae56d24dbc" />
+
 ## AWS Architecture
 Internet Users
 
