@@ -65,21 +65,23 @@ Monitoring + Logs
 
 ![](screenshots/dynamoDB.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/HomePage.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/IAM_POLICY.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/IAM_ROLE.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/Lambda_function.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/Router_53.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/S3 Website Hosting.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/S3_BUCKET.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/SES.png)
 
-![](screenshots/api_gateway.png)
+![](screenshots/ssl_certificate.png)
+
+![](screenshots/WAF.png)
 
