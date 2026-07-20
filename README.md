@@ -57,3 +57,5 @@ CloudWatch
 
 Monitoring + Logs
 
+![](screenshots/api_gateway.png)
+
